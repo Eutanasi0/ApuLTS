@@ -1,0 +1,35 @@
+.nav{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding: 10px 20px;
+    margin: 3% 84% 0 3%;
+    min-width: 160px;
+   
+    border: 2px solid white;
+    color: white;
+}
+
+
+
+.nav.menu{
+    list-style: none;
+}
+.nav-menu button {
+    background: none;
+    border: none;
+    
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.nav-menu li {
+    list-style: none;
+    cursor: pointer;
+}
+
+.nav-menu li:hover {
+    background-color: #555;
+    border-radius: 5px;
+}
+
