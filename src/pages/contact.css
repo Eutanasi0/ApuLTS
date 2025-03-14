@@ -1,0 +1,20 @@
+
+button{
+    background: none;
+    border: none;
+    
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
+
+.githubbutton{
+    color: #5564eb;
+}
+
+.xbutton{
+    color: #aa9b14;
+}
+
+.linkedinbutton{
+    color: #0b9b61bc;
+}
