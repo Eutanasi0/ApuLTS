@@ -11,6 +11,13 @@ const About = () => {
       I hope Courier was the right choice for the font-family on this site. <br />
     </p>
     <img className="donk" src={donk} alt="donk" />
+    <p>
+      About my stack: I use
+      <span className="react"> React</span>,
+      <span className="javascript">JavaScript</span>,
+      <span className="html">HTML</span>,
+      and <span className="css">CSS</span> for front-end development.
+    </p>
   </div>
 };
 
