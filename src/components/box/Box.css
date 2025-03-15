@@ -1,0 +1,15 @@
+.boxcontainer{
+    width: 90%;
+    border: 1px solid #ccc;
+    border-left: none;
+    border-right: none;
+    margin: 3% 0;
+}
+.proyectName{
+    font-style: oblique;
+    font-size: larger;
+}
+
+.proyectDesc{
+    font-size: small;
+}
