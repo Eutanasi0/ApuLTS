@@ -4,16 +4,16 @@ const Explore = () => {
   return <div className="allpagec">
     <Box
       proyectName={
-      "Dung Jung"
+      "MyLocal"
       }
       description={
-        "kindof escape game, but is so easy to escape"
+        "know more about peruvian escene"
       }
       githublink={
-        "https://github.com/Eutanasi0/Dung-jung-"
+        "https://github.com/Eutanasi0/Mylocal?tab=readme-ov-file"
       }
       projectlink={
-        " https://eutanasi0.github.io/Dung-jung-/dung.html"
+        " https://my-local-eta.vercel.app/"
       }
     />
 
