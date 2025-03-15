@@ -2,14 +2,19 @@ import './Box.css'
 
 
 
-export const Box = ({proyectName, description }) => {
+export const Box = ({ proyectName, description, githublink, projectlink }) => {
 
-  return (
-    <div className='boxcontainer'>
-        <p className='proyectName'>{proyectName}</p>
-          <p className='proyectDesc'>{description}</p>  
-    </div>
-  )
+    const to = (url) => {
+        window.open(url, "_blank");
+    };
+
+    return (
+        <div className='boxcontainer'>
+            <p className='proyectName'>{proyectName}</p>
+            <p className='proyectDesc'>{description}</p>  
+            <p><button className='ghButt' onClick={() => to(githublink)}>github  </button><button className='pButt' onClick={()=> to(projectlink)}>go!</button></p>
+        </div>
+    )
 }
 
 export default Box

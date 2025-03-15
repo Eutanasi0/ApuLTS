@@ -1,9 +1,9 @@
 .boxcontainer{
     width: 90%;
     border: 1px solid #ccc;
-    border-left: none;
     border-right: none;
-    margin: 3% 0;
+    border-top: none;
+    margin: 1% 0;
 }
 .proyectName{
     font-style: oblique;
@@ -12,4 +12,20 @@
 
 .proyectDesc{
     font-size: small;
+}
+
+button {
+    background: none;
+    border: none;
+
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
+
+.ghButt{
+    color: #6e5494;
+}
+
+.pButt{
+    color: #2ad11b;
 }
