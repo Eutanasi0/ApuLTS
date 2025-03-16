@@ -41,11 +41,21 @@
 }
 
 .about1 {
-    width: 100%;
-    word-wrap: break-word;
-    /* Asegura que el texto no se desborde */
+    width: 80%;
     text-align: justify;
-    /* Justifica el texto */
-    /* Elimina márgenes adicionales */
+    justify-content: center;
 
+}
+.react,
+.javascript,
+.Typescript,
+.html,
+.css,
+.python,
+.c {
+    display: inline-block;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+    font-weight: bold;
 }

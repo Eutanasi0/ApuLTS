@@ -7,14 +7,12 @@ const Explore = () => {
       "MyLocal"
       }
       description={
-        "know more about peruvian escene"
+        "know more about peruvian escene (in process)"
       }
       githublink={
         "https://github.com/Eutanasi0/Mylocal?tab=readme-ov-file"
       }
-      projectlink={
-        " https://my-local-eta.vercel.app/"
-      }
+     
     />
 
   </div>
