@@ -1,5 +1,5 @@
 .donk {
-    max-width: 30%;
+    max-width: 23%;
     height: auto;
     margin: 3% 0;
     box-sizing: border-box;
@@ -24,4 +24,18 @@
 .css {
     color: #078265;
 
+}
+
+.Typescript {
+    color: #2f74c0;
+
+}
+
+.python {
+    color: #9fc915;
+
+}
+
+.c {
+    color: #a8b9cc;
 }

@@ -14,9 +14,13 @@ const About = () => {
     <p>
       About my stack: I use
       <span className="react"> React</span>,
-      <span className="javascript">JavaScript</span>,
+      <span className="javascript">JavaScript</span>
+      <span className="Typescript">/Typescript</span>,
       <span className="html">HTML</span>,
-      and <span className="css">CSS</span> for front-end development.
+      and <span className="css">CSS</span> for frontend <br />development. <br />
+      Also i can code in 
+      <span className='python'> Python</span> and
+      <span className='c'> c++</span>.
     </p>
   </div>
 };
