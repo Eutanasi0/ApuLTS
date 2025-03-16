@@ -15,9 +15,9 @@ const About = () => {
       About my stack: I use
       <span className="react"> React</span>,
       <span className="javascript">JavaScript</span>
-      <span className="Typescript">/Typescript</span>,
+      <span className="Typescript">/Typescript</span>, <br />
       <span className="html">HTML</span>,
-      and <span className="css">CSS</span> for frontend <br />development. <br />
+      and <span className="css">CSS</span> for frontend development. <br />
     </p>
   </div>
 };
