@@ -43,7 +43,7 @@
 p {
     word-wrap: break-word;
     /* Asegura que el texto no se desborde */
-    text-align: justify;
+    text-align: left;
     /* Justifica el texto */
     margin: 0;
     /* Elimina márgenes adicionales */
