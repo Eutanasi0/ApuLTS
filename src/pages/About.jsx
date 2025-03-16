@@ -9,9 +9,6 @@ const About = () => {
       I've always been drawn to minimalist stuff and things like this personal <br />
       website. <br />
       I hope Courier was the right choice for the font-family on this site. <br />
-    </p>
-    <img className="donk" src={donk} alt="donk" />
-    <p>
       About my stack: I use
       <span className="react"> React</span>,
       <span className="javascript">JavaScript</span>
@@ -22,6 +19,8 @@ const About = () => {
       <span className='python'> Python</span> and
       <span className='c'> c++</span>.
     </p>
+    <img className="donk" src={donk} alt="donk" />
+
   </div>
 };
 
