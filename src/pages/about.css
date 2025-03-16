@@ -41,6 +41,7 @@
 }
 
 p {
+    width: 100%;
     word-wrap: break-word;
     /* Asegura que el texto no se desborde */
     text-align: left;
