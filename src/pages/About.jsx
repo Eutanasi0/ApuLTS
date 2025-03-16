@@ -2,7 +2,7 @@ import donk from '../assets/donk.gif';
 import './about.css';
 const About = () => {
   return <div className="allpagec">
-    <p>
+    <p className='about1'>
       Hello, my name is Benjamin(ApuLTS) im studyng Software engineering (4y).<br />
       <br />
       I'm a kind of web developer, btw I'm more interested in front-end development, <br />
@@ -11,7 +11,7 @@ const About = () => {
       I hope Courier was the right choice for the font-family on this site. <br />
     </p>
     <img className="donk" src={donk} alt="donk" />
-    <p>
+    <p className='about1'>
       About my stack: I use <br />
       <span className="react"> React</span>,
       <span className="javascript">JavaScript</span>
