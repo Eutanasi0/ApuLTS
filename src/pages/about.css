@@ -40,7 +40,7 @@
     color: #a8b9cc;
 }
 
-p {
+.about1 {
     width: 100%;
     word-wrap: break-word;
     /* Asegura que el texto no se desborde */
