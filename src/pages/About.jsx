@@ -12,7 +12,7 @@ const About = () => {
     </p>
     <img className="donk" src={donk} alt="donk" />
     <p>
-      About my stack: I use
+      About my stack: I use <br />
       <span className="react"> React</span>,
       <span className="javascript">JavaScript</span>
       <span className="Typescript">/Typescript</span>, <br />

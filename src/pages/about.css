@@ -45,7 +45,6 @@ p {
     /* Asegura que el texto no se desborde */
     text-align: left;
     /* Justifica el texto */
-    margin: 0;
     /* Elimina márgenes adicionales */
 
 }
