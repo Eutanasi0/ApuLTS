@@ -39,3 +39,13 @@
 .c {
     color: #a8b9cc;
 }
+
+p {
+    word-wrap: break-word;
+    /* Asegura que el texto no se desborde */
+    text-align: justify;
+    /* Justifica el texto */
+    margin: 0;
+    /* Elimina márgenes adicionales */
+
+}
