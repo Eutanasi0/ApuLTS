@@ -15,6 +15,21 @@ const Explore = () => {
      
     />
 
+    <Box
+      proyectName={
+      "Cube.js"
+      }
+      description={
+        "play with my cube , make me happy"
+      }
+      githublink={
+        "https://github.com/Eutanasi0/Cube.js"
+      }
+      projectlink={
+        "https://cubejs-one.vercel.app/"
+      }
+    />
+
   </div>
 };
 
