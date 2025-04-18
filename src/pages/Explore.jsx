@@ -30,6 +30,18 @@ const Explore = () => {
       }
     />
 
+    <Box
+
+      proyectName={
+      "WizardJS"
+      }
+      description={
+        "im not into zork anymore"
+      }
+
+    />
+    
+
   </div>
 };
 

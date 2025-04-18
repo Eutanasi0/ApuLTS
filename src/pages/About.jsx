@@ -10,6 +10,8 @@ const About = () => {
       website. 
       I hope Courier was the right choice for the font-family on this site. 
     </p>
+
+			
     <img className="donk" src={donk} alt="donk" />
     <p className='about1'>
       About my stack: I use :  
@@ -23,4 +25,6 @@ const About = () => {
   </div>
 };
 
-export default About;
+export default About; 
+
+
