@@ -6,6 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     open: true,
+    historyApiFallback: true, // Redirige todas las rutas al index.html
   },
   build: {
     rollupOptions: {
