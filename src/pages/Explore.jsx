@@ -40,6 +40,28 @@ const Explore = () => {
       }
 
     />
+
+    <Box
+
+      proyectName={
+      "Docestantes"
+      }
+      description={
+        "estantes para todxs"
+
+      }
+
+      githublink={
+        "https://github.com/Eutanasi0/docestantes"
+      }
+
+
+    />
+
+        
+
+
+
     
 
   </div>
